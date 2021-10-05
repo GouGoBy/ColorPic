@@ -13,3 +13,5 @@
 ```
 rewrite /p/(.*?)/?$ /index.php?subdir&id=$1;
 
+# Demo
+[NotGou ColorPic](https://color.notgou.com)
