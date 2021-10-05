@@ -6,7 +6,7 @@
 初始代码的创作者，我又改了一下awa
 
 # 部署
-1. 导入 `palettes.sql` 文件 
+1. 导入 `ColorPic.sql` 文件 
 2. 在 `config.php` 中修改数据库信息
 
 ## Nginx 伪静态
