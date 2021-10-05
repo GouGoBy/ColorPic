@@ -12,4 +12,4 @@
 ## Nginx 伪静态
 ```
 rewrite /p/(.*?)/?$ /index.php?subdir&id=$1;
-`
+
