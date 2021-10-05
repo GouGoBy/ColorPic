@@ -9,9 +9,10 @@
 1. 导入 `ColorPic.sql` 文件 
 2. 在 `config.php` 中修改数据库信息
 
+# Demo
+[NotGou ColorPic](https://color.notgou.com)
+
 ## Nginx 伪静态
 ```
 rewrite /p/(.*?)/?$ /index.php?subdir&id=$1;
 
-# Demo
-[NotGou ColorPic](https://color.notgou.com)
